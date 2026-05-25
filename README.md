@@ -49,15 +49,135 @@ class PuneetGoswami:
 
 # 📊 GitHub Analytics
 
+# 🧠 Tech Arsenal
+
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=puneetgoswami1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,linux,html,css"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneetgoswami1&layout=compact&theme=tokyonight&hide_border=true&border_radius=20"/>
+<br><br>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-00C7B7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business%20Analytics-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FFB000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Cleaning-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/KPI%20Reporting-00BFFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Dashboard%20Design-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EDA-20B2AA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-DC143C?style=for-the-badge"/>
 
 </div>
 
 ---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=puneetgoswami1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneetgoswami1&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=puneetgoswami1&theme=tokyonight&hide_border=true&background=00000000"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=puneetgoswami1&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/puneetgoswami1/puneetgoswami1/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 📊 Power BI Sales Dashboard
+
+✨ KPI Analysis  
+✨ Sales Trends  
+✨ Interactive Visuals  
+✨ Business Insights  
+✨ Regional Performance  
+✨ Profit Analysis  
+✨ Executive Dashboard  
+
+</td>
+
+<td width="50%">
+
+## 🤖 AI Resume Screening
+
+✨ Resume Parsing  
+✨ Candidate Matching  
+✨ AI-based Filtering  
+✨ HR Analytics  
+✨ Smart Ranking System  
+✨ Skill Extraction  
+✨ Automated Shortlisting  
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🌌 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 👀 Visitor Counter
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=puneetgoswami1&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
+
+</div>
 
 # 🔥 Contribution Streak
 
