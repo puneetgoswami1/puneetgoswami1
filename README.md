@@ -1,80 +1,163 @@
 <div align="center">
 
-# Hey, I'm Puneet Goswami 👋
+# 𝙋𝙪𝙣𝙚𝙚𝙩 𝙂𝙤𝙨𝙬𝙖𝙢𝙞 🚀
 
-### Data Analyst | Python | SQL | Power BI | Machine Learning
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Data+Analyst+%7C+Power+BI+Developer;Python+%7C+SQL+%7C+Machine+Learning;Building+Data+Driven+Solutions;Turning+Raw+Data+Into+Insights" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Data+Analytics+Enthusiast;Power+BI+Dashboard+Developer;Python+%7C+SQL+%7C+Machine+Learning;Building+Projects+and+Learning+Everyday" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=DATA%20ANALYTICS&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 </div>
 
 ---
 
-## About Me
+# ⚡ About Me
 
-I'm passionate about transforming raw data into meaningful insights and interactive dashboards.
+```python
+class PuneetGoswami:
 
-I enjoy working with Python, SQL, Power BI, and Machine Learning to solve business problems, analyze trends, and build data-driven solutions.
+    def __init__(self):
+        self.role = "Data Analyst"
+        self.skills = ["Python", "SQL", "Power BI", "Machine Learning"]
+        self.focus = ["Data Visualization", "Business Insights", "Analytics"]
+        self.learning = "Building real-world projects daily"
 
-Currently focused on improving my analytics, visualization, and problem-solving skills by building real-world projects.
+    def life_goal(self):
+        return "Transforming raw data into meaningful stories"
+```
 
 ---
 
-## Tech Stack
+# 🧠 Tech Arsenal
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
 
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
+</p>
+
+<p align="center">
 
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MachineLearning-FF6F00?style=for-the-badge"/>
-
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=puneetgoswami1&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneetgoswami1&layout=compact&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-00C7B7?style=for-the-badge"/>
 
 </p>
 
 ---
 
-## Contribution Graph
+# 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=puneetgoswami1&theme=tokyo-night"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=puneetgoswami1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20"/>
 
-</p>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneetgoswami1&layout=compact&theme=tokyonight&hide_border=true&border_radius=20"/>
 
----
-
-## Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=puneetgoswami1&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
+</div>
 
 ---
 
-## Featured Projects
+# 🔥 Contribution Streak
 
-- Power BI Sales Dashboard
-- Customer Churn Analysis
-- AI Resume Screening System
-- Fraud Detection Analysis
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=puneetgoswami1&theme=tokyonight&hide_border=true&border_radius=20"/>
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=puneetgoswami1&theme=tokyo-night&hide_border=true&radius=16"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/puneetgoswami1/puneetgoswami1/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+## 📊 Power BI Sales Dashboard
+
+- KPI Analysis
+- Sales Trends
+- Interactive Visuals
+- Business Insights
+- Regional Performance
+
+</td>
+
+<td width="50%">
+
+## 🤖 AI Resume Screening
+
+- Resume Parsing
+- Candidate Matching
+- AI-based Filtering
+- HR Analytics
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🌌 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=puneetgoswami1&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/puneetgoswami1">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ “Data is the new electricity.”
+
+</div>
