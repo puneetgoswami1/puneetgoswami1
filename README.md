@@ -1,4 +1,4 @@
-# Hi, I'm Puneet Goswami 👋
+# Hey, I'm Puneet Goswami 👋
 
 Data Analyst passionate about turning raw data into meaningful insights and real-world solutions.
 
