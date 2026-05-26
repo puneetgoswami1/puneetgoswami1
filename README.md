@@ -206,3 +206,4 @@ class PuneetGoswami:
 ### ⚡ Turning data into stories that drive decisions.
 
 </div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,25:00FFFF,50:8A2BE2,75:FF00FF,100:FF1493&height=180&section=footer&animation=fadeIn"/>
