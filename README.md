@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/rahul-jha98/README.md/main/profile.gif">
+  <img width="200%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
 <p align="center">
