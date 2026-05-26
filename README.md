@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=42&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=1000&height=180&lines=Puneet+Goswami;Data+Analytics+Engineer;AI+%26+Business+Intelligence;Transforming+Data+Into+Decisions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=38&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Puneet+Goswami;Data+Analytics+Engineer;Business+Intelligence+Developer;Machine+Learning+Enthusiast" />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=3"/>
+<img src="https://user-images.githubusercontent.com/74038190/216656963-09118229-1f81-4496-a1a2-0627f1f5d7b6.gif" width="220"/>
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/Data%20Analytics-00F7FF?style=for-the-badge&logo=databricks&logoColor=black"/>
 
@@ -20,9 +20,19 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=puneetgoswami1&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=puneetgoswami1&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 
 </div>
+
+---
+
+<div align="center">
+
+### ⚡ Building intelligent dashboards, analytics systems & data driven solutions.
+
+</div>
+
+---
 
 <div align="center">
 
