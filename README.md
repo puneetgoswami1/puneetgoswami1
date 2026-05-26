@@ -1,6 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Puneet%20Goswami&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Power%20BI%20%7C%20AI%20Explorer&descAlignY=60&descAlign=50"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=42&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=1000&height=180&lines=Puneet+Goswami;Data+Analytics+Engineer;AI+%26+Business+Intelligence;Transforming+Data+Into+Decisions" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=3"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Data%20Analytics-00F7FF?style=for-the-badge&logo=databricks&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Business%20Intelligence-7B2FF7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6B00?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=puneetgoswami1&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
