@@ -4,11 +4,11 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=1200&lines=Architecting+Next+Gen+Analytics+Systems;Transforming+Data+Into+Strategic+Intelligence;Building+Enterprise+Dashboard+Experiences"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=Building+Enterprise+Dashboard+Experiences;Transforming+Raw+Data+Into+Strategic+Business+Intelligence;Creating+High-Performance+Analytics+Systems;Power+BI+%7C+Python+%7C+Machine+Learning+%7C+SQL"/>
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=puneetgoswami1&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=puneetgoswami1&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 <br><br>
 
@@ -37,6 +37,7 @@
 <img src="https://komarev.com/ghpvc/?username=puneetgoswami1&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 
 </div>
+
 
 ---
 
