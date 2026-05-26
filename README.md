@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F2027,50:203A43,100:2C5364&text=Puneet%20Goswami&fontSize=65&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=AI%20Driven%20Data%20Intelligence%20|%20Power%20BI%20Expert%20|%20Advanced%20Analytics%20Engineer&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=Puneet%20Goswami&fontSize=65&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=AI%20Driven%20Analytics%20|%20Power%20BI%20Expert%20|%20Machine%20Learning&descAlignY=60"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2200&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=Building+Next+Generation+Analytics+Systems;Transforming+Raw+Data+Into+Strategic+Intelligence;Power+BI+%7C+Python+%7C+SQL+%7C+Machine+Learning"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=Building+Interactive+Business+Intelligence;Creating+Next+Gen+Analytics+Systems;Power+BI+%7C+Python+%7C+SQL+%7C+AI"/>
 
 <br><br>
 
-<img width="850" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/hello.gif"/>
+<img width="850" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coding-night.gif"/>
 
 <br><br>
 
