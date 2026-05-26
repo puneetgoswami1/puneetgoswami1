@@ -1,5 +1,7 @@
 <div align="center">
+ <p align="center">
   <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284068-714a0d0b-2f00-4f8b-bfb7-2d6a73b2b4df.gif">
+</p>
   
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Puneet%20Goswami&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=AI%20Driven%20Analytics%20Engineer&descAlignY=58&theme=tokyonight"/>
 
