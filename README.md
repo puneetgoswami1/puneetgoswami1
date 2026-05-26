@@ -94,9 +94,7 @@ class PuneetGoswami:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=puneetgoswami1&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneetgoswami1&layout=compact&theme=tokyonight&hide_border=true"/>
+![](https://github-readme-stats.vercel.app/api?username=puneetgoswami1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=8A2BE2)
 
 <br><br>
 
