@@ -1,14 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Puneet%20Goswami&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20Engineer%20%7C%20Business%20Intelligence%20Specialist%20%7C%20AI%20Systems&descAlignY=60&theme=tokyonight"/>
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=Designing+High+Impact+Analytics+Systems;Transforming+Raw+Data+Into+Business+Intelligence;Building+Next+Generation+Dashboard+Experiences"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Puneet%20Goswami&fontSize=58&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Data%20Infrastructure%20Architect%20|%20AI%20Analytics%20Engineer%20|%20Strategic%20Intelligence%20Systems&descAlignY=62&theme=tokyonight"/>
 
 <br><br>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZ5eWQ1d2t5aG84a3c4cHFjY3Y1ZTVpOHJmbG9kY2x5dXF1dDk1ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif" width="700"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=1200&lines=Architecting+Next+Gen+Analytics+Systems;Transforming+Data+Into+Strategic+Intelligence;Building+Enterprise+Dashboard+Experiences"/>
+
+<br><br>
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="900"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=puneetgoswami1&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=puneetgoswami1&theme=tokyo-night&hide_border=true&area=true"/>
 
 <br><br>
 
@@ -17,8 +25,16 @@
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-FF6B00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Data%20Visualization-00C7B7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/KPI%20Reporting-4A90E2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Dashboard%20Design-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EDA-00CED1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-FF4C4C?style=for-the-badge"/>
 
 <br><br>
 
