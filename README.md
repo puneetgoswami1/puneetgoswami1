@@ -39,7 +39,7 @@ class PuneetGoswami:
 ```
 
 ---
-<img src="https://user-images.githubusercontent.com/74038190/212750597-1e1b58db-1d5b-4b7d-b7f4-9b0f7d7e2a6b.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
 # 🧠 Tech Arsenal
 
 <div align="center">
@@ -109,7 +109,7 @@ class PuneetGoswami:
 </div>
 
 ---
-<img src="https://user-images.githubusercontent.com/74038190/212750597-1e1b58db-1d5b-4b7d-b7f4-9b0f7d7e2a6b.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
 # 🐍 Contribution Snake
 
 <div align="center">
@@ -119,16 +119,14 @@ class PuneetGoswami:
 </div>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/74038190/212750597-1e1b58db-1d5b-4b7d-b7f4-9b0f7d7e2a6b.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
 # 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=puneetgoswami1&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
-
-<img src="https://user-images.githubusercontent.com/74038190/212750597-1e1b58db-1d5b-4b7d-b7f4-9b0f7d7e2a6b.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
 # 🚀 Featured Projects
 
 <table>
@@ -168,8 +166,7 @@ class PuneetGoswami:
 
 </table>
 
----
-<img src="https://user-images.githubusercontent.com/74038190/212750597-1e1b58db-1d5b-4b7d-b7f4-9b0f7d7e2a6b.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
 # 🏆 Achievements
 
 🏅 Building real-world analytics projects  
@@ -179,7 +176,7 @@ class PuneetGoswami:
 🏅 Improving business problem solving  
 
 ---
-<img src="https://user-images.githubusercontent.com/74038190/212750597-1e1b58db-1d5b-4b7d-b7f4-9b0f7d7e2a6b.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
 # 🌐 Connect With Me
 
 <div align="center">
