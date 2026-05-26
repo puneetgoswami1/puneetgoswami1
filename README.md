@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <img width="100%" src="https://raw.githubusercontent.com/rahul-jha98/README.md/main/profile.gif">
 </p>
 
 <p align="center">
