@@ -1,14 +1,14 @@
 <div align="center">
-<p align="center">
-  <img width="100%" src="https://media.giphy.com/media/3o7TKsQ8UQK9zQWbNS/giphy.gif"/>
+ <p align="center">
+  <img width="500" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
+
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=Puneet+Goswami;AI+Driven+Analytics+Engineer;Machine+Learning+Explorer;Power+BI+Developer;Cyberpunk+Data+Scientist"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Creating+Next+Gen+Analytics+Systems;Power+BI+%7C+Python+%7C+SQL+%7C+AI;Interactive+Dashboard+Engineering;Machine+Learning+%7C+Business+Intelligence">
 </p>
   
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F7FF,50:A82BE2,100:0D1117&section=header&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,25:00F7FF,50:A82BE2,75:FF00FF,100:0D1117&text=Puneet%20Goswami&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=AI%20Driven%20Analytics%20Engineer&descAlignY=58&descSize=24"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
 
 ### Building Data Driven Solutions
 
