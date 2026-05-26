@@ -8,10 +8,6 @@
 
 <br><br>
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="900"/>
-
-<br><br>
-
 <img src="https://github-profile-trophy.vercel.app/?username=puneetgoswami1&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 <br><br>
