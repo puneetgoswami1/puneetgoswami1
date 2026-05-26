@@ -8,7 +8,7 @@
 
 <br><br>
 
-<img width="72%" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/>
+<img width="70%" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 <br><br>
 
