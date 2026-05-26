@@ -25,9 +25,8 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
 # ⚡ About Me
-
 <p align="center">
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/216656963-09118229-1df0-4edc-8b6d-7b5c6f3f0c9b.gif">
+<img width="250" src="https://media.tenor.com/DimzPZMypFcAAAAd/laptop.gif">
 </p>
 
 ```python
