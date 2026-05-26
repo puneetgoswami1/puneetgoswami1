@@ -95,7 +95,7 @@ class PuneetGoswami:
 <div align="center">
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=puneetgoswami1&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=puneetgoswami1&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=puneetgoswami1&theme=tokyonight&hide_border=true&ring=00F7FF&fire=8A2BE2&currStreakLabel=00F7FF"/>
 <br><br>
 
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=puneetgoswami1&theme=tokyo-night&hide_border=true"/>
