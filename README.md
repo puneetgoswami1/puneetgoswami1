@@ -42,6 +42,10 @@ class PuneetGoswami:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
 # 🧠 Tech Arsenal
 
+<p align="center">
+<img width="120" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+</p>
+
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,linux,html,css"/>
