@@ -1,7 +1,9 @@
 <div align="center">
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/README.md/main/profile.gif" width="100%">
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rahul-jha98/README.md/main/profile.gif"/>
+
+</div>
 
 <p align="center">
 <img width="700" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coding.gif">
