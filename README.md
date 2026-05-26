@@ -11,7 +11,6 @@
 
 # Puneet Goswami 🚀
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
 
 ### Building Data Driven Solutions
 
