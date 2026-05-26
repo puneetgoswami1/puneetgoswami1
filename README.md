@@ -49,6 +49,58 @@ class PuneetGoswami:
 
 ---
 
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Puneet%20Goswami&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20Engineer%20%7C%20Business%20Intelligence%20Specialist%20%7C%20AI%20Systems&descAlignY=60&theme=tokyonight"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=Designing+High+Impact+Analytics+Systems;Transforming+Raw+Data+Into+Business+Intelligence;Building+Next+Generation+Dashboard+Experiences"/>
+
+<br><br>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZ5eWQ1d2t5aG84a3c4cHFjY3Y1ZTVpOHJmbG9kY2x5dXF1dDk1ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif" width="700"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Data%20Analytics-00F7FF?style=for-the-badge&logo=databricks&logoColor=black"/>
+<img src="https://img.shields.io/badge/Business%20Intelligence-7B2FF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6B00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-00C7B7?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=puneetgoswami1&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+
+</div>
+
+---
+
+# ⚡ About Me
+
+```python
+class PuneetGoswami:
+
+    def __init__(self):
+        self.role = "Data Analytics Engineer"
+        self.specialization = [
+            "Business Intelligence",
+            "Data Visualization",
+            "Machine Learning",
+            "KPI Analytics",
+            "Dashboard Engineering"
+        ]
+
+    def mission(self):
+        return "Transforming raw data into strategic business intelligence"
+```
+
+---
+
 ---
 
 <div align="center">
