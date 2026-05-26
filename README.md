@@ -1,32 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Puneet%20Goswami&fontSize=60&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Data%20Infrastructure%20Architect%20|%20AI%20Analytics%20Engineer%20|%20Strategic%20Intelligence%20Systems&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050816,25:0F2027,50:203A43,75:2C5364,100:00F7FF&text=Puneet%20Goswami&fontSize=68&fontColor=00F7FF&animation=fadeIn&fontAlignY=36&desc=AI%20Driven%20Data%20Intelligence%20%7C%20Power%20BI%20Expert%20%7C%20Analytics%20Systems%20Engineer&descAlignY=60&descSize=20"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Building+Enterprise+Dashboard+Experiences;Transforming+Raw+Data+Into+Business+Intelligence;Power+BI+%7C+Python+%7C+SQL+%7C+Machine+Learning;Designing+High+Impact+Analytics+Systems"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2200&pause=800&color=00F7FF&center=true&vCenter=true&width=1200&lines=Building+Next+Generation+Analytics+Systems;Creating+Interactive+Business+Intelligence+Experiences;Power+BI+%7C+Python+%7C+SQL+%7C+AI+Automation;Turning+Raw+Data+Into+Strategic+Insights"/>
 
 <br><br>
 
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="850"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnM2eGd3dDNmN3llMXU0d2Q5OW52emR2dDg5a3k2MXFmN3B6aXd0aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif" width="900"/>
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=puneetgoswami1&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=puneetgoswami1&theme=algolia&no-frame=true&row=1&column=7"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=puneetgoswami1&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=puneetgoswami1&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF&hide_border=true&area=true"/>
 
 <br><br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=puneetgoswami1&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=puneetgoswami1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneetgoswami1&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneetgoswami1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=puneetgoswami1&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=puneetgoswami1&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 <br><br>
 
@@ -34,21 +34,18 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=puneetgoswami1&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=puneetgoswami1&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Data%20Analytics-00F7FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Business%20Intelligence-7B2FF7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DATA_ANALYTICS-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BUSINESS_INTELLIGENCE-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6B00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Visualization-00C7B7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Dashboard%20Engineering-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/KPI%20Analytics-4A90E2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EDA-00CED1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Problem%20Solving-FF4C4C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-FF6B00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DASHBOARD_ENGINEERING-00C7B7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_AUTOMATION-FF1493?style=for-the-badge"/>
 
 </div>
 
@@ -61,32 +58,33 @@ class PuneetGoswami:
 
     def __init__(self):
 
-        self.role = "Data Analytics Engineer"
+        self.role = "AI Driven Data Intelligence Engineer"
 
-        self.specialization = [
-            "Business Intelligence",
-            "Data Visualization",
+        self.skills = [
+            "Power BI",
+            "Python",
+            "SQL",
             "Machine Learning",
-            "KPI Analytics",
             "Dashboard Engineering",
-            "Strategic Intelligence Systems"
+            "Business Intelligence",
+            "Data Visualization"
         ]
 
     def mission(self):
-        return "Transforming raw data into strategic business intelligence"
+        return "Transforming raw data into powerful business intelligence systems"
 
-    def current_focus(self):
+    def focus(self):
         return [
-            "Enterprise Dashboards",
-            "AI Analytics Systems",
-            "Automation",
-            "Data Storytelling"
+            "Interactive Dashboards",
+            "AI Automation",
+            "Analytics Systems",
+            "Enterprise Insights"
         ]
 ```
 
 ---
 
-# 🧠 Tech Arsenal
+# 🧠 Tech Stack
 
 <div align="center">
 
@@ -97,13 +95,10 @@ class PuneetGoswami:
 <img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MACHINE_LEARNING-FFB000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DATA_ANALYTICS-00F7FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DASHBOARD_ENGINEERING-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/KPI_ANALYTICS-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DATA_VISUALIZATION-8A2BE2?style=for-the-badge"/>
 
 </div>
 
