@@ -10,6 +10,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Puneet%20Goswami&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=AI%20Driven%20Analytics%20Engineer&descAlignY=58&theme=tokyonight"/>
 
 # Puneet Goswami 🚀
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
 
 ### Building Data Driven Solutions
 
@@ -21,7 +22,6 @@
 
 </div>
 
----
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
 # ⚡ About Me
 
@@ -82,7 +82,6 @@ class PuneetGoswami:
 
 </div>
 
----
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
 # 📊 GitHub Analytics
 
@@ -98,7 +97,7 @@ class PuneetGoswami:
 
 </div>
 
----
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
 # 🔥 Contribution Streak
 
@@ -108,7 +107,7 @@ class PuneetGoswami:
 
 </div>
 
----
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
 # 🐍 Contribution Snake
 
@@ -118,7 +117,7 @@ class PuneetGoswami:
 
 </div>
 
----
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
 # 🏆 GitHub Trophies
 
@@ -175,7 +174,7 @@ class PuneetGoswami:
 🏅 Learning AI & automation  
 🏅 Improving business problem solving  
 
----
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
 # 🌐 Connect With Me
 
