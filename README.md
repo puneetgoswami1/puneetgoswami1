@@ -83,9 +83,9 @@ class PuneetGoswami:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=puneetgoswami1&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneetgoswami1&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=puneetgoswami1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneetgoswami1&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 </p>
 ---
 
@@ -97,21 +97,20 @@ class PuneetGoswami:
 
 ---
 
+
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/puneetgoswami1/puneetgoswami1/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/puneetgoswami1/puneetgoswami1/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=puneetgoswami1&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=puneetgoswami1&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
 ---
 
