@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Puneet%20Goswami&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Power%20BI%20%7C%20AI%20Explorer&descAlignY=60&descAlign=50"/>
+
+</div>
+
+<div align="center">
+
 # Puneet Goswami 🚀
 
 ### Building Data Driven Solutions
