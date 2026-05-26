@@ -1,90 +1,49 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050816,25:0F2027,50:203A43,75:2C5364,100:00F7FF&text=Puneet%20Goswami&fontSize=68&fontColor=00F7FF&animation=fadeIn&fontAlignY=36&desc=AI%20Driven%20Data%20Intelligence%20%7C%20Power%20BI%20Expert%20%7C%20Analytics%20Systems%20Engineer&descAlignY=60&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Puneet%20Goswami&fontAlign=50&fontAlignY=40&color=0:0f0c29,50:302b63,100:24243e&fontColor=00F7FF&fontSize=60&animation=fadeIn&desc=AI%20Driven%20Data%20Intelligence%20|%20Power%20BI%20Expert%20|%20Analytics%20Systems%20Engineer&descAlignY=68&descAlign=50"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2200&pause=800&color=00F7FF&center=true&vCenter=true&width=1200&lines=Building+Next+Generation+Analytics+Systems;Creating+Interactive+Business+Intelligence+Experiences;Power+BI+%7C+Python+%7C+SQL+%7C+AI+Automation;Turning+Raw+Data+Into+Strategic+Insights"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Designing+Interactive+Business+Intelligence+Systems;Building+Advanced+Analytics+Dashboards;Transforming+Raw+Data+Into+Business+Insights;Power+BI+%7C+Python+%7C+SQL+%7C+Machine+Learning"/>
 
 <br><br>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnM2eGd3dDNmN3llMXU0d2Q5OW52emR2dDg5a3k2MXFmN3B6aXd0aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif" width="900"/>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=puneetgoswami1&theme=algolia&no-frame=true&row=1&column=7"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=puneetgoswami1&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF&hide_border=true&area=true"/>
-
-<br><br>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=puneetgoswami1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneetgoswami1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=puneetgoswami1&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/puneetgoswami1/puneetgoswami1/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="850"/>
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=puneetgoswami1&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/DATA_ANALYTICS-00F7FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BUSINESS_INTELLIGENCE-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MACHINE_LEARNING-FF6B00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DASHBOARD_ENGINEERING-00C7B7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI_AUTOMATION-FF1493?style=for-the-badge"/>
-
 </div>
 
 ---
 
-# ⚡ About Me
+# 🧠 About Me
 
 ```python
 class PuneetGoswami:
 
     def __init__(self):
 
-        self.role = "AI Driven Data Intelligence Engineer"
+        self.role = "Data Analytics Engineer"
 
-        self.skills = [
-            "Power BI",
-            "Python",
-            "SQL",
-            "Machine Learning",
-            "Dashboard Engineering",
+        self.specialization = [
             "Business Intelligence",
-            "Data Visualization"
+            "Power BI Dashboards",
+            "Machine Learning",
+            "AI Analytics",
+            "Data Visualization",
+            "Strategic Reporting",
+            "Dashboard Engineering"
         ]
 
     def mission(self):
-        return "Transforming raw data into powerful business intelligence systems"
-
-    def focus(self):
-        return [
-            "Interactive Dashboards",
-            "AI Automation",
-            "Analytics Systems",
-            "Enterprise Insights"
-        ]
+        return "Transforming raw data into meaningful business intelligence"
 ```
 
 ---
 
-# 🧠 Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
@@ -92,13 +51,27 @@ class PuneetGoswami:
 
 <br><br>
 
-<img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/KPI_ANALYTICS-00F7FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DATA_VISUALIZATION-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6B00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Visualization-00C7B7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/KPI%20Reporting-4A90E2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Dashboard%20Design-8A2BE2?style=for-the-badge"/>
 
 </div>
 
@@ -138,14 +111,12 @@ class PuneetGoswami:
 
 # 🚀 Featured Projects
 
-| 📊 Power BI Sales Dashboard | 🤖 AI Resume Screening |
+| Project | Description |
 |---|---|
-| ✨ KPI Analysis | ✨ Resume Parsing |
-| ✨ Sales Trends | ✨ Candidate Matching |
-| ✨ Interactive Visuals | ✨ AI-based Filtering |
-| ✨ Business Insights | ✨ HR Analytics |
-| ✨ Regional Performance | ✨ Smart Ranking System |
-| ✨ Profit Analysis | ✨ Automated Shortlisting |
+| 📊 Power BI Sales Dashboard | KPI Analysis, Sales Trends, Regional Insights, Interactive Visualizations |
+| 🤖 AI Resume Screening | Resume Parsing, Candidate Matching, HR Analytics |
+| 📈 Business Analytics System | Dashboard Engineering, KPI Tracking, Reporting |
+| 🧠 ML Prediction Model | Predictive Analytics using Python & Machine Learning |
 
 ---
 
@@ -154,15 +125,23 @@ class PuneetGoswami:
 <div align="center">
 
 <a href="https://github.com/puneetgoswami1">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ "Turning Data Into Strategic Intelligence"
 
 </div>
