@@ -26,7 +26,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
 # ⚡ About Me
 <p align="center">
-<img width="180" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img width="220" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 </p>
 
 ```python
