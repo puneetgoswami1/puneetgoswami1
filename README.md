@@ -83,7 +83,7 @@ class PuneetGoswami:
 </div>
 
 ---
-<img src="https://user-images.githubusercontent.com/74038190/212750597-1e1b58db-1d5b-4b7d-b7f4-9b0f7d7e2a6b.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -99,7 +99,7 @@ class PuneetGoswami:
 </div>
 
 ---
-<img src="https://user-images.githubusercontent.com/74038190/212750597-1e1b58db-1d5b-4b7d-b7f4-9b0f7d7e2a6b.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
 # 🔥 Contribution Streak
 
 <div align="center">
