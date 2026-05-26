@@ -95,7 +95,6 @@ class PuneetGoswami:
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=puneetgoswami1&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puneetgoswami1&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
