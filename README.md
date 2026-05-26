@@ -7,8 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Creating+Next+Gen+Analytics+Systems;Power+BI+%7C+Python+%7C+SQL+%7C+AI;Interactive+Dashboard+Engineering;Machine+Learning+%7C+Business+Intelligence">
 </p>
   
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Puneet%20Goswami&fontColor=00F7FF&stroke=FFFFFF&animation=twinkling&fontAlignY=40&theme=tokyonight"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=220&text=Puneet%20Goswami&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20Driven%20Analytics%20Engineer&descAlignY=65&descSize=22&color=0:0D1117,35:00F7FF,70:A82BE2,100:0D1117"/>
 # Puneet Goswami 🚀
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
