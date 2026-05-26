@@ -46,7 +46,7 @@ class PuneetGoswami:
 # 🧠 Tech Arsenal
 
 <p align="center">
-<img width="120" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<img width="150" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 </p>
 
 <div align="center">
