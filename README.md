@@ -22,7 +22,7 @@
 </div>
 
 ---
-
+<img src="https://user-images.githubusercontent.com/74038190/212750597-1e1b58db-1d5b-4b7d-b7f4-9b0f7d7e2a6b.gif" width="100%">
 # ⚡ About Me
 
 ```python
@@ -39,7 +39,7 @@ class PuneetGoswami:
 ```
 
 ---
-
+<img src="https://user-images.githubusercontent.com/74038190/212750597-1e1b58db-1d5b-4b7d-b7f4-9b0f7d7e2a6b.gif" width="100%">
 # 🧠 Tech Arsenal
 
 <div align="center">
@@ -83,7 +83,7 @@ class PuneetGoswami:
 </div>
 
 ---
-
+<img src="https://user-images.githubusercontent.com/74038190/212750597-1e1b58db-1d5b-4b7d-b7f4-9b0f7d7e2a6b.gif" width="100%">
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -99,7 +99,7 @@ class PuneetGoswami:
 </div>
 
 ---
-
+<img src="https://user-images.githubusercontent.com/74038190/212750597-1e1b58db-1d5b-4b7d-b7f4-9b0f7d7e2a6b.gif" width="100%">
 # 🔥 Contribution Streak
 
 <div align="center">
@@ -109,7 +109,7 @@ class PuneetGoswami:
 </div>
 
 ---
-
+<img src="https://user-images.githubusercontent.com/74038190/212750597-1e1b58db-1d5b-4b7d-b7f4-9b0f7d7e2a6b.gif" width="100%">
 # 🐍 Contribution Snake
 
 <div align="center">
@@ -120,6 +120,7 @@ class PuneetGoswami:
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212750597-1e1b58db-1d5b-4b7d-b7f4-9b0f7d7e2a6b.gif" width="100%">
 # 🏆 GitHub Trophies
 
 <p align="center">
@@ -127,7 +128,7 @@ class PuneetGoswami:
 </p>
 
 
-
+<img src="https://user-images.githubusercontent.com/74038190/212750597-1e1b58db-1d5b-4b7d-b7f4-9b0f7d7e2a6b.gif" width="100%">
 # 🚀 Featured Projects
 
 <table>
@@ -168,7 +169,7 @@ class PuneetGoswami:
 </table>
 
 ---
-
+<img src="https://user-images.githubusercontent.com/74038190/212750597-1e1b58db-1d5b-4b7d-b7f4-9b0f7d7e2a6b.gif" width="100%">
 # 🏆 Achievements
 
 🏅 Building real-world analytics projects  
@@ -178,7 +179,7 @@ class PuneetGoswami:
 🏅 Improving business problem solving  
 
 ---
-
+<img src="https://user-images.githubusercontent.com/74038190/212750597-1e1b58db-1d5b-4b7d-b7f4-9b0f7d7e2a6b.gif" width="100%">
 # 🌐 Connect With Me
 
 <div align="center">
