@@ -24,25 +24,27 @@
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
-# ⚡ About Me
-<p align="center">
-<img width="220" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-</p>
 
-```python
-class PuneetGoswami:
+# 🌟 About Me:
 
-    def __init__(self):
-        self.role = "Data Analyst"
-        self.skills = ["Python", "SQL", "Power BI", "Machine Learning"]
-        self.interest = "Analytics & AI"
-        self.goal = "Turning data into meaningful insights"
+Hi, I'm Puneet Goswami — an aspiring Data Analyst and AI enthusiast passionate about building impactful, data-driven solutions.
 
-    def focus(self):
-        return "Building impactful analytics projects"
-```
+I enjoy transforming raw data into meaningful insights through interactive dashboards, analytics, and AI-powered systems. My focus is on solving real-world business problems using technology and continuous learning.
+
+Currently exploring:
+- 📊 Data Analytics & Business Intelligence
+- 🤖 Machine Learning & AI Automation
+- 📈 Power BI Dashboard Development
+- 🐍 Python for Data Science
+- 🗄️ SQL & Database Analysis
+- 📉 Data Visualization & Storytelling
+
+I love working on hands-on projects that combine analytics, automation, and creativity to create smarter digital solutions.
+
+Driven by curiosity, consistency, and a strong interest in technology, I’m continuously improving my skills by building real-world projects and exploring modern tools in AI and analytics.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
+
 # 🧠 Tech Arsenal
 
 <p align="center">
@@ -104,6 +106,7 @@ class PuneetGoswami:
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
+
 # 🔥 Contribution Streak
 
 <div align="center">
@@ -114,7 +117,9 @@ class PuneetGoswami:
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
+
 # 🐍 Contribution Snake
+
 <p align="center">
   <img 
    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
@@ -128,7 +133,7 @@ class PuneetGoswami:
 </p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
 
-<h1>🏆 GitHub Trophies</h1>
+# 🏆 GitHub Trophies
 
 <p align="center">
 <img 
