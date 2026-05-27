@@ -128,7 +128,7 @@ class PuneetGoswami:
 </p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
 
-# 🏆 GitHub Trophies
+<h1>🏆 GitHub Trophies</h1>
 <p align="center">
   <img 
     src="https://github-profile-trophy-eight.vercel.app/?username=puneetgoswami1&theme=radical&no-frame=true&no-bg=true&margin-w=15"
