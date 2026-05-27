@@ -126,14 +126,8 @@ class PuneetGoswami:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
 <h1>🏆 GitHub Trophies</h1>
 <p align="center">
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=puneetgoswami1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"
-    height="180"
-  />
-  
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=puneetgoswami1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"
-    height="180"
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=puneetgoswami1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=6"
   />
 </p>
 
