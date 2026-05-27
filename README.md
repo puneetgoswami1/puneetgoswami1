@@ -20,31 +20,6 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:A020F0&height=3"/>
-
-<h2 align="center">🤖 AI Assistant</h2>
-
-<div align="center">
-
-```python
-class PuneetAI:
-
-    def __init__(self):
-        self.name = "Puneet Goswami"
-        self.role = "AI Driven Analytics Engineer"
-        self.skills = [
-            "Power BI",
-            "Python",
-            "SQL",
-            "Machine Learning",
-            "Dashboard Design"
-        ]
-
-    def say_hi(self):
-        return "Building futuristic AI solutions 🚀"
-
-me = PuneetAI()
-print(me.say_hi())
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
 # ⚡ About Me
