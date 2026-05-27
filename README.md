@@ -27,73 +27,112 @@
 
 # 🌟 About Me:
 
+<table>
+<tr>
+
+<td width="60%">
+
+Hi, I'm <b>Puneet Goswami</b> — a <b>Data Analyst and</b> specializing in data analytics, business intelligence, ETL development, and AI-powered solutions.
+
+I focus on transforming complex datasets into actionable insights through interactive dashboards, automation workflows, and scalable data systems.
+
+🔹 Core Expertise:
+- 📊 Data Analytics & Business Intelligence
+- 📈 Power BI Dashboard Development
+- ⚡ ETL Pipelines & Data Engineering
+- ☁️ AWS Cloud & Microsoft Fabric
+- 🤖 Machine Learning & AI Solutions
+- 🗄️ SQL Optimization & Database Analysis
+- 📉 Data Visualization & Storytelling
+- 🔄 Automation & Workflow Integration
+
+I enjoy building impactful analytics products that combine data, automation, and AI to solve real-world business challenges efficiently.
+
+</td>
+
+<td width="40%">
+
 <p align="center">
-  <img width="220" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="100%"/>
 </p>
 
-Hi, I'm Puneet Goswami — an aspiring Data Analyst and AI enthusiast passionate about building impactful, data-driven solutions.
+</td>
 
-I enjoy transforming raw data into meaningful insights through interactive dashboards, analytics, and AI-powered systems. My focus is on solving real-world business problems using technology and continuous learning.
+</tr>
+</table>
 
-Currently exploring:
-- 📊 Data Analytics & Business Intelligence
-- 🤖 Machine Learning & AI Automation
-- 📈 Power BI Dashboard Development
-- 🐍 Python for Data Science
-- 🗄️ SQL & Database Analysis
-- 📉 Data Visualization & Storytelling
-
-I love working on hands-on projects that combine analytics, automation, and creativity to create smarter digital solutions.
-
-Driven by curiosity, consistency, and a strong interest in technology, I’m continuously improving my skills by building real-world projects and exploring modern tools in AI and analytics.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
 
-# 🧠 Tech Arsenal
+# 💻 Tech Stack & Skills:
 
 <p align="center">
-<img width="180" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+  <img width="190" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+</p>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,aws,git,github,vscode,linux,html,css,javascript" />
+
 </p>
 
-<div align="center">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,linux,html,css"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-<br><br>
+<img src="https://img.shields.io/badge/Microsoft%20Fabric-4B53BC?style=for-the-badge&logo=microsoft&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/ETL%20Pipelines-FF6F00?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-0A66C2?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Engineering-005571?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Business%20Intelligence-1E88E5?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Data%20Visualization-00C7B7?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Business%20Analytics-FF6F61?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-06B6D4?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Machine%20Learning-FFB703?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Deep%20Learning-FF006E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SQL%20Optimization-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Data%20Cleaning-8338EC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Storytelling-3A86FF?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/KPI%20Reporting-4361EE?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Dashboard%20Design-7209B7?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/EDA-00B4D8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EDA-0084D8?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Data%20Cleaning-8338EC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Predictive%20Analytics-F72585?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Problem%20Solving-FF006E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud%20Analytics-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Data%20Storytelling-3A86FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS%20Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
-</div>
+<img src="https://img.shields.io/badge/Data%20Warehousing-577590?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Automation-43AA8B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/API%20Integration-F94144?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Excel%20Analytics-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
 # 📊 GitHub Analytics
