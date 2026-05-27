@@ -1,7 +1,4 @@
-<div align="center">
- <p align="center">
-  <img width="500" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-</p>
+
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Creating+Next+Gen+Analytics+Systems;Power+BI+%7C+Python+%7C+SQL+%7C+AI;Interactive+Dashboard+Engineering;Machine+Learning+%7C+Business+Intelligence">
