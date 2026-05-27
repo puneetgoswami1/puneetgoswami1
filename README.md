@@ -127,15 +127,17 @@ class PuneetGoswami:
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=puneetgoswami1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=puneetgoswami1&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:A020F0&height=3"/>
 
 # 🏆 Achievement Wall
 
+# 🏆 Achievement Stats
+
 <p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=puneetgoswami1&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=puneetgoswami1&theme=tokyonight&hide_border=true"/>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:A020F0&height=3"/>
