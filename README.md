@@ -16,7 +16,9 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=puneetgoswami1&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=puneetgoswami1&label=CYBERPUNK+VISITORS&color=blueviolet&style=for-the-badge"/>
+</p>
 
 </div>
 
