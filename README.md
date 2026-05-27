@@ -127,12 +127,12 @@ class PuneetGoswami:
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=puneetgoswami1&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=puneetgoswami1&show_icons=true&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:A020F0&height=3"/>
-
-# 🏆 Achievement Wall
 
 # 🏆 Achievement Stats
 
