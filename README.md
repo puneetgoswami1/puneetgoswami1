@@ -127,7 +127,7 @@ class PuneetGoswami:
 <h1>🏆 GitHub Trophies</h1>
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=puneetgoswami1&theme=tokyonight&no-frame=true&margin-w=10"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=puneetgoswami1&show_icons=true&theme=tokyonight&hide_border=true"
   />
 </p>
 
