@@ -115,7 +115,6 @@ class PuneetGoswami:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
 # 🐍 Contribution Snake
-
 <p align="center">
   <img 
    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
@@ -127,7 +126,6 @@ class PuneetGoswami:
    src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,50:00FFCC,100:7F00FF&height=6&section=footer"
   />
 </p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
 
 <h1>🏆 GitHub Trophies</h1>
