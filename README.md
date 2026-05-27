@@ -127,7 +127,7 @@ class PuneetGoswami:
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=puneetgoswami1&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=puneetgoswami1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" width="100%" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:A020F0&height=3"/>
