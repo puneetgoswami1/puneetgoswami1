@@ -27,6 +27,10 @@
 
 # 🌟 About Me:
 
+<p align="center">
+  <img width="220" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+</p>
+
 Hi, I'm Puneet Goswami — an aspiring Data Analyst and AI enthusiast passionate about building impactful, data-driven solutions.
 
 I enjoy transforming raw data into meaningful insights through interactive dashboards, analytics, and AI-powered systems. My focus is on solving real-world business problems using technology and continuous learning.
