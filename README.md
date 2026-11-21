@@ -19,7 +19,7 @@
 
 ### About
 
-<img align="right" src="https://tenor.com/b2pI6.gif" width="220" alt="Coding" />
+<img align="right" src="./coding.gif" width="220" alt="Coding" />
 
 I work as a Data Analyst at **Lemon.io**, focusing on operational analytics, financial reporting, and automated BI workflows. Most of my day-to-day work involves writing production SQL, building Python analysis pipelines, and designing Power BI dashboards that help teams spot bottlenecks and cut unnecessary spend.
 
