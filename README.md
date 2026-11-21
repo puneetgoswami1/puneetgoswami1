@@ -1,20 +1,25 @@
-<div align="left">
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0D1117,50:161B22,100:0D1117&text=Puneet%20Goswami&fontSize=42&fontColor=F8FAFC&fontAlignY=42&animation=fadeIn" />
 
-# Puneet Goswami
+  <a href="https://puneetgoswami.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1200&color=D4AF37&center=true&vCenter=true&width=650&lines=Data+Analyst+%40+Lemon.io+%C2%B7+Jaipur%2C+India;SQL+%E2%80%A2+Python+%E2%80%A2+Power+BI+%E2%80%A2+Microsoft+Fabric;Operations%2C+Warehouse+FinOps+%26+Revenue+Analytics" alt="Typing Subtitle" />
+  </a>
 
-**Data Analyst @ Lemon.io** · Jaipur, India  
-SQL · Python · Power BI · Microsoft Fabric · AWS
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-puneetgoswami.vercel.app-111827?style=flat-square&logo=vercel&logoColor=white)](https://puneetgoswami.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-puneetgoswami--ai-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/puneetgoswami-ai)
-
+  <p>
+    <a href="https://puneetgoswami.vercel.app">
+      <img src="https://img.shields.io/badge/Portfolio-puneetgoswami.vercel.app-161B22?style=flat-square&logo=vercel&logoColor=D4AF37" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/puneetgoswami-ai">
+      <img src="https://img.shields.io/badge/LinkedIn-puneetgoswami--ai-161B22?style=flat-square&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" />
+    </a>
+  </p>
 </div>
 
 ---
 
 ### About
 
-I work as a Data Analyst at **Lemon.io**, focusing on operational analytics, financial reporting, and automated BI workflows. Most of my work involves writing production SQL, building Python analysis pipelines, and designing Power BI dashboards that help teams spot bottlenecks and cut unnecessary spend.
+I work as a Data Analyst at **Lemon.io**, focusing on operational analytics, financial reporting, and automated BI workflows. Most of my day-to-day work involves writing production SQL, building Python analysis pipelines, and designing Power BI dashboards that help teams spot bottlenecks and cut unnecessary spend.
 
 **Areas I focus on:**
 - **Operations & Supply Chain:** Multi-item order split modeling, regional inventory rebalancing, and fulfillment diagnostics.
@@ -45,15 +50,15 @@ I work as a Data Analyst at **Lemon.io**, focusing on operational analytics, fin
 - **[Cloud Data Warehouse FinOps Cost Optimizer](https://github.com/puneetgoswami1/warehouse-finops-cost-optimizer)** — Built an audit pipeline to flag expensive full-table scans, peak compute bottlenecks, and idle ETL schedules.
 - **[Payment Failure & Recovery Analytics](https://github.com/puneetgoswami1/payment-failure-recovery-analytics)** — Classified gateway decline codes into hard vs. soft failures to model optimal retry timing and recover lost checkout revenue.
 
-> View all **18+ analytics projects and live case studies** at **[puneetgoswami.vercel.app](https://puneetgoswami.vercel.app)**
+> Explore all **18+ analytics projects and live case studies** at **[puneetgoswami.vercel.app](https://puneetgoswami.vercel.app)**
 
 ---
 
-### Activity
+### Live Activity
 
-<div align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=puneetgoswami1&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
 
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=puneetgoswami1&theme=github-compact&hide_border=true" alt="Contribution Graph" />
