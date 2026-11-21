@@ -1,0 +1,62 @@
+<svg width="840" height="175" viewBox="0 0 840 175" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#1E293B" stroke-width="0.6" opacity="0.55" />
+    </pattern>
+    <linearGradient id="goldLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#30363D" />
+      <stop offset="50%" stop-color="#D4AF37" />
+      <stop offset="100%" stop-color="#30363D" />
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="838" height="173" rx="10" fill="#0D1117" stroke="#21262D" stroke-width="1.5" />
+  <rect x="1" y="1" width="838" height="173" rx="10" fill="url(#grid)" />
+
+  <text x="24" y="28" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="1.5">ANALYTICS ARCHITECTURE // END-TO-END WORKFLOW</text>
+  <circle cx="718" cy="24" r="4" fill="#10B981">
+    <animate attributeName="opacity" values="1;0.25;1" dur="2s" repeatCount="indefinite" />
+  </circle>
+  <text x="728" y="28" fill="#10B981" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="1">SYSTEM ACTIVE</text>
+
+  <line x1="194" y1="98" x2="232" y2="98" stroke="url(#goldLine)" stroke-width="1.8" />
+  <line x1="402" y1="98" x2="440" y2="98" stroke="url(#goldLine)" stroke-width="1.8" />
+  <line x1="610" y1="98" x2="648" y2="98" stroke="url(#goldLine)" stroke-width="1.8" />
+
+  <circle r="3.2" fill="#D4AF37" filter="url(#glow)">
+    <animateMotion dur="1.6s" repeatCount="indefinite" path="M 194 98 L 232 98" />
+  </circle>
+  <circle r="3.2" fill="#38BDF8" filter="url(#glow)">
+    <animateMotion dur="1.6s" begin="0.5s" repeatCount="indefinite" path="M 402 98 L 440 98" />
+  </circle>
+  <circle r="3.2" fill="#10B981" filter="url(#glow)">
+    <animateMotion dur="1.6s" begin="1.0s" repeatCount="indefinite" path="M 610 98 L 648 98" />
+  </circle>
+
+  <rect x="24" y="56" width="170" height="84" rx="8" fill="#161B22" stroke="#30363D" stroke-width="1.2" />
+  <text x="38" y="78" fill="#D4AF37" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" font-weight="bold">01 · INGESTION</text>
+  <text x="38" y="101" fill="#F0F6FC" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14" font-weight="600">Raw Event Logs</text>
+  <text x="38" y="122" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">APIs · CSV · Clickstream</text>
+
+  <rect x="232" y="56" width="170" height="84" rx="8" fill="#161B22" stroke="#30363D" stroke-width="1.2" />
+  <text x="246" y="78" fill="#38BDF8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" font-weight="bold">02 · WAREHOUSE</text>
+  <text x="246" y="101" fill="#F0F6FC" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14" font-weight="600">SQL &amp; Modeling</text>
+  <text x="246" y="122" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">Postgres · Fabric · dbt</text>
+
+  <rect x="440" y="56" width="170" height="84" rx="8" fill="#161B22" stroke="#30363D" stroke-width="1.2" />
+  <text x="454" y="78" fill="#D4AF37" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" font-weight="bold">03 · DIAGNOSTICS</text>
+  <text x="454" y="101" fill="#F0F6FC" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14" font-weight="600">Python &amp; Stats</text>
+  <text x="454" y="122" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">Pandas · SciPy · FinOps</text>
+
+  <rect x="648" y="56" width="168" height="84" rx="8" fill="#161B22" stroke="#D4AF37" stroke-width="1.2" />
+  <text x="662" y="78" fill="#10B981" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" font-weight="bold">04 · DECISIONS</text>
+  <text x="662" y="101" fill="#F0F6FC" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14" font-weight="600">BI &amp; Impact</text>
+  <text x="662" y="122" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11">Power BI · SLA · Revenue</text>
+</svg>
