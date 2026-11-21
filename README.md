@@ -27,20 +27,31 @@ I work as a Data Analyst at **Lemon.io**, focusing on operational analytics, fin
 - **Revenue & Payment Analytics:** Checkout decline segmentation (hard vs. soft failures) and retry window optimization.
 - **BI & Data Engineering:** End-to-end ETL pipelines, data modeling, and executive KPI reporting in Power BI and Microsoft Fabric.
 
+<p align="center">
+  <img src="./pipeline.svg" width="100%" alt="Analytics Pipeline Workflow" />
+</p>
+
 ---
 
 ### Core Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,aws,git,github,vscode,linux" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,sqlite,azure,aws,docker,git,github,vscode,linux,bash" alt="Tech Stack" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-161B22?style=flat-square&logo=powerbi&logoColor=F2C811" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Microsoft_Fabric-161B22?style=flat-square&logo=microsoft&logoColor=38BDF8" alt="Microsoft Fabric" />
+  <img src="https://img.shields.io/badge/Tableau-161B22?style=flat-square&logo=tableau&logoColor=E97627" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Pandas_%26_SciPy-161B22?style=flat-square&logo=pandas&logoColor=D4AF37" alt="Pandas & SciPy" />
 </p>
 
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Querying & Warehousing** | SQL (PostgreSQL, MySQL, T-SQL), Query Optimization, Data Modeling, Microsoft Fabric |
-| **Programming & Analysis** | Python (Pandas, NumPy, Scikit-Learn), EDA, Statistical Testing, Automation Scripts |
+| **Programming & Analysis** | Python (Pandas, NumPy, Scikit-Learn, SciPy), EDA, Statistical Testing, Automation Scripts |
 | **BI & Visualization** | Power BI (DAX, Power Query), Tableau, Excel (Advanced Modeling & KPI Reporting) |
-| **Cloud & Workflow** | AWS (S3, Redshift/Athena basics), ETL Pipelines, Git, GitHub Actions |
+| **Cloud & Workflow** | AWS (S3, Redshift/Athena basics), Docker, ETL Pipelines, Git, GitHub Actions |
 
 ---
 
