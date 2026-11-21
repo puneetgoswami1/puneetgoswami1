@@ -19,6 +19,8 @@
 
 ### About
 
+<img align="right" src="https://tenor.com/b2pI6.gif" width="220" alt="Coding" />
+
 I work as a Data Analyst at **Lemon.io**, focusing on operational analytics, financial reporting, and automated BI workflows. Most of my day-to-day work involves writing production SQL, building Python analysis pipelines, and designing Power BI dashboards that help teams spot bottlenecks and cut unnecessary spend.
 
 **Areas I focus on:**
@@ -27,10 +29,11 @@ I work as a Data Analyst at **Lemon.io**, focusing on operational analytics, fin
 - **Revenue & Payment Analytics:** Checkout decline segmentation (hard vs. soft failures) and retry window optimization.
 - **BI & Data Engineering:** End-to-end ETL pipelines, data modeling, and executive KPI reporting in Power BI and Microsoft Fabric.
 
+<br clear="right"/>
+
 <p align="center">
   <img src="./pipeline.svg" width="100%" alt="Analytics Pipeline Workflow" />
 </p>
-
 ---
 
 ### Core Stack
